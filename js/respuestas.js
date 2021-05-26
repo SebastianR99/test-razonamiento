@@ -65,16 +65,16 @@ function resultado() {
           })
     }
 
-    r1.innerHTML = "<b>Respuesta: </b> A.";
-    r2.innerHTML = "<b>Respuesta: </b> C.";
-    r3.innerHTML = "<b>Respuesta: </b> D.";
-    r4.innerHTML = "<b>Respuesta: </b> B.";
-    r5.innerHTML = "<b>Respuesta: </b> C.";
-    r6.innerHTML = "<b>Respuesta: </b> C.";
-    r7.innerHTML = "<b>Respuesta: </b> D.";
-    r8.innerHTML = "<b>Respuesta: </b> A.";
-    r9.innerHTML = "<b>Respuesta: </b> B.";
-    r10.innerHTML = "<b>Respuesta: </b> D.";
+    r1.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> A.";
+    r2.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> C.";
+    r3.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> D.";
+    r4.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> B.";
+    r5.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> C.";
+    r6.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> C.";
+    r7.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> D.";
+    r8.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> A.";
+    r9.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> B.";
+    r10.innerHTML = "<hr style='width: 300px; margin-right: 90%;'> <b>Respuesta: </b> D.";
 }
 
 
